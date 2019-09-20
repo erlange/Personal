@@ -4,96 +4,112 @@ Description: Angular Console for Visual Studio Code. The user interface app for 
 Version: 8.1.2
 Publisher: nrwl
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console
+
 Name: Angular Language Service
 Id: angular.ng-template
 Description: Editor services for Angular templates
 Version: 0.802.3
 Publisher: Angular
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+
 Name: Auto Rename Tag
 Id: formulahendry.auto-rename-tag
 Description: Auto rename paired HTML/XML tag
 Version: 0.1.0
 Publisher: Jun Han
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
 Name: Beautify
 Id: hookyqr.beautify
 Description: Beautify code in place for VS Code
 Version: 1.5.0
 Publisher: HookyQR
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
+
 Name: Bracket Pair Colorizer
 Id: coenraads.bracket-pair-colorizer
 Description: A customizable extension for colorizing matching brackets
 Version: 1.0.61
 Publisher: CoenraadS
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
 Name: Color Highlight
 Id: naumovs.color-highlight
 Description: Highlight web colors in your editor
 Version: 2.3.0
 Publisher: Sergii Naumov
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+
 Name: CSS Peek
 Id: pranaygp.vscode-css-peek
 Description: Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.
 Version: 3.0.2
 Publisher: Pranay Prakash
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
 Name: ES7 React/Redux/GraphQL/React-Native snippets
 Id: dsznajder.es7-react-js-snippets
 Description: Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
 Version: 2.4.3
 Publisher: dsznajder
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
 Name: ESLint
 Id: dbaeumer.vscode-eslint
 Description: Integrates ESLint JavaScript into VS Code.
 Version: 1.9.1
 Publisher: Dirk Baeumer
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
 Name: indent-rainbow
 Id: oderwat.indent-rainbow
 Description: Makes indentation easier to read
 Version: 7.4.0
 Publisher: oderwat
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
 Name: IntelliSense for CSS class names in HTML
 Id: zignd.html-css-class-completion
 Description: CSS class name completion for the HTML class attribute based on the definitions found in your workspace.
 Version: 1.19.0
 Publisher: Zignd
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+
 Name: Live Server
 Id: ritwickdey.liveserver
 Description: Launch a development local Server with live reload feature for static & dynamic pages
 Version: 5.6.1
 Publisher: Ritwick Dey
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
 Name: Markdown All in One
 Id: yzhang.markdown-all-in-one
 Description: All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 Version: 2.4.2
 Publisher: Yu Zhang
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+
 Name: One Dark Pro
 Id: zhuangtongfa.material-theme
 Description: Atom's iconic One Dark theme for Visual Studio Code
 Version: 2.27.2
 Publisher: binaryify
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
+
 Name: Prettier - Code formatter
 Id: esbenp.prettier-vscode
 Description: VS Code plugin for prettier/prettier
 Version: 2.2.2
 Publisher: Esben Petersen
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
 Name: Python
 Id: ms-python.python
 Description: Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more.
 Version: 2019.9.34911
 Publisher: Microsoft
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
 Name: TSLint
 Id: ms-vscode.vscode-typescript-tslint-plugin
 Description: TSLint support for Visual Studio Code
