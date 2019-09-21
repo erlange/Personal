@@ -1,3 +1,3 @@
 # Personal
-This is not a regular repository.  This contains only personal notes.
+This is not a regular repository.  This repo contains only personal notes.
 

@@ -116,3 +116,38 @@ Description: TSLint support for Visual Studio Code
 Version: 1.2.2
 Publisher: Microsoft
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
+
+Name: C#
+Id: ms-vscode.csharp
+Description: C# for Visual Studio Code (powered by OmniSharp).
+Version: 1.20.0
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+
+Name: Dart
+Id: dart-code.dart-code
+Description: Dart language support and debugger for Visual Studio Code.
+Version: 2.24.0
+Publisher: Dart Code
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code
+
+Name: Markdown Preview Enhanced
+Id: shd101wyy.markdown-preview-enhanced
+Description: Markdown Preview Enhanced ported to vscode
+Version: 0.4.3
+Publisher: Yiyi Wang
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+
+Name: React Native Tools
+Id: msjsdiag.vscode-react-native
+Description: Debugging and integrated commands for React Native
+Version: 0.9.3
+Publisher: Microsoft
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native
+
+Name: Vetur
+Id: octref.vetur
+Description: Vue tooling for VS Code
+Version: 0.17.1
+Publisher: Pine Wu
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=octref.vetur
